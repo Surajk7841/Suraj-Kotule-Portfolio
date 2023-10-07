@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/Suraj-Kotule-Portfolio/static/css/main.64b2c95e.css",
-    "main.js": "/Suraj-Kotule-Portfolio/static/js/main.23d2bbbc.js",
+    "main.css": "/Suraj-Kotule-Portfolio/static/css/main.841085ec.css",
+    "main.js": "/Suraj-Kotule-Portfolio/static/js/main.e0ee33a4.js",
     "static/js/787.30237536.chunk.js": "/Suraj-Kotule-Portfolio/static/js/787.30237536.chunk.js",
     "static/media/altprofpic.jpeg": "/Suraj-Kotule-Portfolio/static/media/altprofpic.bb1ff5872507a9593bf4.jpeg",
+    "static/media/expensemanager.jpeg": "/Suraj-Kotule-Portfolio/static/media/expensemanager.da591e463bc8b34ef788.jpeg",
+    "static/media/investmentcalculator.jpeg": "/Suraj-Kotule-Portfolio/static/media/investmentcalculator.21f0e7e43faec72c7c33.jpeg",
+    "static/media/useragetracker.jpeg": "/Suraj-Kotule-Portfolio/static/media/useragetracker.fc26a0686cafc2f3e6fb.jpeg",
     "index.html": "/Suraj-Kotule-Portfolio/index.html",
-    "main.64b2c95e.css.map": "/Suraj-Kotule-Portfolio/static/css/main.64b2c95e.css.map",
-    "main.23d2bbbc.js.map": "/Suraj-Kotule-Portfolio/static/js/main.23d2bbbc.js.map",
+    "main.841085ec.css.map": "/Suraj-Kotule-Portfolio/static/css/main.841085ec.css.map",
+    "main.e0ee33a4.js.map": "/Suraj-Kotule-Portfolio/static/js/main.e0ee33a4.js.map",
     "787.30237536.chunk.js.map": "/Suraj-Kotule-Portfolio/static/js/787.30237536.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.64b2c95e.css",
-    "static/js/main.23d2bbbc.js"
+    "static/css/main.841085ec.css",
+    "static/js/main.e0ee33a4.js"
   ]
 }
