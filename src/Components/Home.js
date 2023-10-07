@@ -1,5 +1,6 @@
 import React, { Fragment } from "react";
 import Classes from "./Home.module.css";
+import Resume from "../assets/SurajAKotuleResume.pdf";
 
 const Home = () => {
   return (
@@ -15,7 +16,7 @@ const Home = () => {
           </p>
           <a
             className={Classes.a}
-            href="/SurajAKotuleResume.pdf"
+            href={Resume}
             download="Suraj kotule Resume.pdf"
           >
             Download Resume
