@@ -1,0 +1,63 @@
+.nav {
+  color: #fff;
+  padding: 10px;
+  display: flex;
+  justify-content: flex-end;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: auto;
+  z-index: 1;
+}
+
+.a {
+  color: white;
+  background: radial-gradient(circle at 5%, black, gray);
+  text-decoration: none;
+  font-size: 25px;
+  font-family: "Kanit", sans-serif;
+  font-weight: bold;
+  border-radius: 0;
+  padding: 5px 10px;
+  margin: auto 60px auto 20px;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
+
+.a:hover {
+  color: black;
+  background: white;
+}
+
+@media screen and (max-width: 768px) {
+  .nav {
+    padding: 5px;
+  }
+  .a {
+    font-size: 20px;
+    padding: 8px;
+    margin: auto 30px auto 10px;
+  }
+}
+
+@media screen and (max-width: 470px) {
+  .nav {
+    padding: 5px;
+  }
+  .a {
+    font-size: 15px;
+    padding: 7px;
+    margin: auto 15px auto 10px;
+  }
+}
+
+@media screen and (max-width: 345px) {
+  .nav {
+    padding: 3px;
+  }
+  .a {
+    font-size: 15px;
+    padding: 3px;
+    margin: auto 10px auto 7px;
+  }
+}
