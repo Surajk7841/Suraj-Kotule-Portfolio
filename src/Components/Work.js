@@ -1,5 +1,8 @@
 import React, { Fragment } from "react";
 import Classes from "./Work.module.css";
+import Expense from "../expensemanager.jpeg";
+import Investment from "../investmentcalculator.jpeg";
+import UserAge from "../useragetracker.jpeg";
 
 const Work = () => {
   return (
@@ -11,7 +14,7 @@ const Work = () => {
         <div className={Classes.div1}>
           <img
             className={Classes.img}
-            src="/Expensemanager.png"
+            src={Expense}
             alt="Expense Manager"
           ></img>
           <span className={Classes.tooltipText}>
@@ -41,8 +44,8 @@ const Work = () => {
         <div className={Classes.div2}>
           <img
             className={Classes.img}
-            src="/investmentcalc.png"
-            alt="Investment Calculator"
+            src={Investment}
+            alt="investment calculator"
           ></img>
           <span className={Classes.tooltipText}>
             Input financial details, click 'Calculate,' and see a dynamic table
@@ -69,11 +72,7 @@ const Work = () => {
           </div>
         </div>
         <div className={Classes.div3}>
-          <img
-            className={Classes.img}
-            src="/UserAgeTracker.png"
-            alt="UserAgeTracker"
-          ></img>
+          <img className={Classes.img} src={UserAge} alt="UserAgeTracker"></img>
           <span className={Classes.tooltipText}>
             Simple data input, validation, and user list management for
             efficient user information tracking.
