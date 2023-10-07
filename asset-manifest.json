@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Suraj-Kotule-Portfolio/static/css/main.64b2c95e.css",
+    "main.js": "/Suraj-Kotule-Portfolio/static/js/main.23d2bbbc.js",
+    "static/js/787.30237536.chunk.js": "/Suraj-Kotule-Portfolio/static/js/787.30237536.chunk.js",
+    "static/media/altprofpic.jpeg": "/Suraj-Kotule-Portfolio/static/media/altprofpic.bb1ff5872507a9593bf4.jpeg",
+    "index.html": "/Suraj-Kotule-Portfolio/index.html",
+    "main.64b2c95e.css.map": "/Suraj-Kotule-Portfolio/static/css/main.64b2c95e.css.map",
+    "main.23d2bbbc.js.map": "/Suraj-Kotule-Portfolio/static/js/main.23d2bbbc.js.map",
+    "787.30237536.chunk.js.map": "/Suraj-Kotule-Portfolio/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64b2c95e.css",
+    "static/js/main.23d2bbbc.js"
+  ]
+}
